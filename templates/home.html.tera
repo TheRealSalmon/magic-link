@@ -1,0 +1,9 @@
+{% extends "base" %}
+{% block content %}
+<h1>Welcome to Magic Link</h1>
+
+<p>
+  This website provides an example of magic-link authentication with rocket and redis-rs. The website is hosted using <a href="https://www.shuttle.rs/">shuttle</a> and it uses a <a href="https://upstash.com/">serverless redis database</a>.
+</p>
+
+{% endblock content %}

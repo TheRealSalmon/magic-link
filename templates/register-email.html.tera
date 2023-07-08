@@ -1,0 +1,9 @@
+{% extends "base" %}
+{% block content %}
+<h1>Post Registration</h1>
+
+<p>
+  {{ message }}
+</p>
+
+{% endblock content %}

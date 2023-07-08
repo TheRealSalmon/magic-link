@@ -18,5 +18,4 @@ Cargo.lock
 /target
 
 # Added by sam
-.credentials
-Rocket.toml
+Secrets.toml
